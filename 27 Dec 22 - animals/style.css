@@ -1,0 +1,96 @@
+body{
+    margin: 0;
+}
+.anim{
+    font-size: large;
+    border-radius: 7px;
+    height: 50px;
+    width: fit-content;
+    background-color: brown;
+    color: aliceblue;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: absolute;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.animals{
+    display: flex;
+    background-color: rgb(255, 255, 255);
+    width: 100vw;
+    height: 100vh;
+}
+.tiger1 {
+    display: flex;
+    position: absolute;
+    top: 57px;
+    left: 22px;
+}
+.rhino{
+    display: flex;
+    position: absolute;
+    top: 6px;
+    right: 21px;
+}
+.yak{
+    display: flex;
+    position: absolute;
+    top: 23px;
+    left: 225px;
+}
+.elephant{
+    display: flex;
+    position: absolute;
+    top: 75px;
+    right: 65px;
+}
+.fox{
+    display: flex;
+    position: absolute;
+    top: 240px;
+    left: 323px;
+}
+.yak{
+    display: flex;
+    position: absolute;
+    top: 23px;
+    left: 225px;
+}
+.lion{
+    display: flex;
+    position: absolute;
+    top: 503px;
+    left: 11px;
+}
+.giraffe{
+    display: flex;
+    position: absolute;
+    top: 489px;
+    left: 98px
+}
+.leopard{
+    display: flex;
+    position: absolute;
+    top: 505px;
+    left: 383px;
+}
+.iguana{
+    display: flex;
+    position: absolute;
+    bottom: 83px;
+    right: 172px;
+}
+.yak{
+    display: flex;
+    position: absolute;
+    top: 23px;
+    left: 225px;
+}
+.tiger2{
+    display: flex;
+    position: absolute;
+    bottom: 68px;
+    right: 21px;
+}

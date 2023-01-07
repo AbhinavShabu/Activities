@@ -1,0 +1,69 @@
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid rgb(89, 0, 255);
+    box-sizing: border-box;
+}
+
+
+h1{
+    color: rgb(13, 56, 94);
+}
+
+
+.container {
+    padding: 16px;
+    width: 50%;
+    height: 50%;
+    box-shadow: 1px 1px 5px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;      
+}
+.clearbtn{
+    background-color: rgb(10, 29, 76);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0px;
+    border: none;
+    cursor: pointer;
+    width: 49%;
+}
+.loginbtn{
+    background-color: rgb(10, 29, 76);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0px;
+    border: none;
+    cursor: pointer;
+    width: 49%;
+}
+button:hover{
+    opacity: 0.8;
+}
+/* .cancelbtn{
+    width: 100%;
+
+} */
+.signup{
+    background-color: rgb(19, 137, 98);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+/* .psw{
+    align-items: left;
+} */
+.container_main{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
